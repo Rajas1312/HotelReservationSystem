@@ -2,3 +2,5 @@ Hotel.java
  Hotel
 HotelReservationService.java
  HotelReservationService
+Result.java
+ Result
